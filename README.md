@@ -10,9 +10,6 @@
 - Otros: Git, GitHub  
 
 ## 🌟 Proyectos Destacados  
-- [App de tareas en React](link-al-repo)  
-- [Landing page responsiva](link-al-repo)  
-- [CRUD con MongoDB y Node](link-al-repo)  
 
 ---
 ✉️ Conectemos en [LinkedIn](https://www.linkedin.com/in/alejandro-ml)  
